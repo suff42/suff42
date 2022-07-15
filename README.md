@@ -5,7 +5,7 @@ Hi there 👋 my name is Radek
 
 <br/>
 
-<iframe src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="480" height="254" frameBorder="0"  allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="480" height="254" frameBorder="0"  allowFullScreen></img>
 
 <!--
 **suff42/suff42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 ## 👋 See you soon
 
 <p align="center">
-  <iframe src="https://gifer.com/embed/xK" width=480 height=214.069 frameBorder="0" allowFullScreen></iframe>
+  <img src="https://i.gifer.com/xK.gif" width="480" height="254" frameBorder="0"  allowFullScreen></img>
 </p>
