@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 ## 👋 See you soon
 
 <p align="center">
-  <img src="https://i.gifer.com/xK.gif" width="480" height="254" frameBorder="0"  allowFullScreen></img>
+<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="480" height="254" frameBorder="0"  allowFullScreen></img>
 </p>
