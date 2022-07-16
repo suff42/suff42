@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Radek
+# Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Radek
 
 <div align="center">
 
@@ -7,6 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&center=true&lines=Beginner+Frontend+Developer)](https://git.io/typing-svg)
 
 </div>
+
+## 👨🏻‍💻 About Me
+I'm an electronics engineer by trade with over 10 years of experience. Programming has always been a big part of my job as well as spare time but never played the main role. Now the time has come... I've dedicated myself to the code.
 
 ## 🛠️ My favorite tools
 
