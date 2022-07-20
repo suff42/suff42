@@ -9,7 +9,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
-I'm an electronics engineer by trade with over 10 years of experience. Programming has always been a big part of my job as well as spare time but never played the main role. Now the time has come... I've dedicated myself to the code.
+I'm an electronics engineer by trade with over 10 years of experience. Programming has always been a part of my job as well as spare time but never played the main role. Now the time has come... I've dedicated myself to the code.
 
 ## 🛠️ My favorite tools
 
