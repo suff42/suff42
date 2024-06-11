@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="480" height="254" frameBorder="0"  allowFullScreen></img>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&center=true&lines=Beginner+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&center=true&lines=Typescript+Developer)](https://git.io/typing-svg)
 
 </div>
 
